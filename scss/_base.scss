@@ -1,0 +1,30 @@
+@import "normalize";
+
+/*
+This is all you need for scout to work. Note 'blueprint' is part of compass!
+*/
+
+@import "compass";
+@import "blueprint";
+
+$base-font-size: 16px;
+$base-line-height:24px;
+
+$blueprint_grid_columns: 12;
+$blueprint_grid_width: 70px;
+$blueprint-grid-margin: 10px;
+
+/*
+http://compass-style.org/reference/compass/typography/vertical_rhythm/
+*/
+
+@include establish-baseline;
+
+/*
+variables!
+*/
+
+$white: #fff;
+$black: #656565;
+$light-grey:#f8f8f8;
+$dark-grey:#dedede;

@@ -1,0 +1,135 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "base";
+
+body{
+    background:#ff00ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+MEDIA QUERIES
+*/
+@media only screen and (min-width: 481px) {
+
+
+} // end of media query*/
+
+
+@media only screen and (min-width: 768px) {
+
+
+} // end of media query*/
+
+
+@media only screen and (min-width: 1030px) {
+
+} // end of media query*/
+
+
+
+/*RETINA (2x RESOLUTION DEVICES)
+This applies to the retina iPhone (4s) and iPad (2,3) along with
+other displays with a 2x resolution. You can also create a media
+query for retina AND a certain size if you want. Go Nuts.
+*/
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-device-pixel-ratio: 1.5) {
+
+
+} // end of media query
+
+
+/*
+PRINT STYLESHEET
+*/
+@media print {
+    * {
+        background: transparent !important;
+        color: black !important;
+        text-shadow: none !important;
+        filter:none !important;
+        -ms-filter: none !important;
+    }
+
+    a, a:visited {
+        color: #444 !important;
+        text-decoration: underline;
+
+        // show links on printed pages
+        &:after {
+            content: " (" attr(href) ")";
+        }
+
+        // show title too
+        abbr[title]:after {
+            content: " (" attr(title) ")";
+        }
+    }
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre, blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr, img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+
+    // hide content people who print don't need to see
+    .sidebar,
+    .page-navigation,
+    .wp-prev-next,
+    .respond-form,
+    nav {
+        display: none;
+    }
+}
+
