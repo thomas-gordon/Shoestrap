@@ -8,37 +8,19 @@
 
     var Application = {
 
-        start: function () {
+        init: function () {
             console.log('Application has started');
-            this.storedString = 'Stored String!';
-            this.afterStart();
+            this.appendP();
         },
 
-        afterStart: function () {
-
-            // we need to define this because of scope.
-            var self = this;
-
-            $('p').each(function () {
-                $(this).append(self.storedString);
-                console.log('String appended to page.');
-                self.printANumberOut(5000);
-            });
-
-            $('p').each(function () {
-                //the stored string is empty because the scope has changed.
-                $('p').append(this.storedString);
-            });
-
-        },
-
-        printANumberOut: function (chosenNumber) {
-            console.log(chosenNumber);
+        appendP: function () {
+            console.log('appendP has run');
+            $('.wrapper').append('<p>appendP function is running.</p>');
         }
     };
 
     var initialize = function() {
-        Application.start();
+        Application.init();
     };
 
     $(initialize);

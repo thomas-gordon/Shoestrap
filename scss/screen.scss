@@ -6,8 +6,15 @@
 @import "base";
 
 body{
-    background:#ff00ff;
+    background:$black;
+
 }
+
+.wrapper{
+    @include container;
+    background:$dark-grey;
+}
+
 
 
 
