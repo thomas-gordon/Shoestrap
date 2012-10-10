@@ -6,8 +6,7 @@
 @import "base";
 
 body{
-    background:$black;
-
+   @include background-image(linear-gradient(#000, #f8f8f8));
 }
 
 .wrapper{

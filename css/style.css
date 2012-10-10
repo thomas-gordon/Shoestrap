@@ -5830,11 +5830,15 @@ http://paulirish.com/2012/box-sizing-border-box-ftw/
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 8, ../scss/screen.scss */
+/* line 8, ../scss/style.scss */
 body {
-  background: #656565; }
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #000000), color-stop(100%, #f8f8f8));
+  background-image: -webkit-linear-gradient(#000000, #f8f8f8);
+  background-image: -moz-linear-gradient(#000000, #f8f8f8);
+  background-image: -o-linear-gradient(#000000, #f8f8f8);
+  background-image: linear-gradient(#000000, #f8f8f8); }
 
-/* line 13, ../scss/screen.scss */
+/* line 12, ../scss/style.scss */
 .wrapper {
   width: 950px;
   margin: 0 auto;
@@ -5861,7 +5865,7 @@ query for retina AND a certain size if you want. Go Nuts.
 PRINT STYLESHEET
 */
 @media print {
-  /* line 73, ../scss/screen.scss */
+  /* line 72, ../scss/style.scss */
   * {
     background: transparent !important;
     color: black !important;
@@ -5869,54 +5873,54 @@ PRINT STYLESHEET
     filter: none !important;
     -ms-filter: none !important; }
 
-  /* line 81, ../scss/screen.scss */
+  /* line 80, ../scss/style.scss */
   a, a:visited {
     color: #444 !important;
     text-decoration: underline; }
-    /* line 86, ../scss/screen.scss */
+    /* line 85, ../scss/style.scss */
     a:after, a:visited:after {
       content: " (" attr(href) ")"; }
-    /* line 91, ../scss/screen.scss */
+    /* line 90, ../scss/style.scss */
     a abbr[title]:after, a:visited abbr[title]:after {
       content: " (" attr(title) ")"; }
 
-  /* line 98, ../scss/screen.scss */
+  /* line 97, ../scss/style.scss */
   .ir a:after,
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: ""; }
 
-  /* line 102, ../scss/screen.scss */
+  /* line 101, ../scss/style.scss */
   pre, blockquote {
     border: 1px solid #999;
     page-break-inside: avoid; }
 
-  /* line 107, ../scss/screen.scss */
+  /* line 106, ../scss/style.scss */
   thead {
     display: table-header-group; }
 
-  /* line 111, ../scss/screen.scss */
+  /* line 110, ../scss/style.scss */
   tr, img {
     page-break-inside: avoid; }
 
-  /* line 115, ../scss/screen.scss */
+  /* line 114, ../scss/style.scss */
   img {
     max-width: 100% !important; }
 
   @page {
     margin: 0.5cm; }
 
-  /* line 123, ../scss/screen.scss */
+  /* line 122, ../scss/style.scss */
   p, h2, h3 {
     orphans: 3;
     widows: 3; }
 
-  /* line 129, ../scss/screen.scss */
+  /* line 128, ../scss/style.scss */
   h2,
   h3 {
     page-break-after: avoid; }
 
-  /* line 138, ../scss/screen.scss */
+  /* line 137, ../scss/style.scss */
   .sidebar,
   .page-navigation,
   .wp-prev-next,
