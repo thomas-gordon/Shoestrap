@@ -49,6 +49,18 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
+    "\/js\/plugin.coffee" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/plugin.coffee",
+      "checkOutputStyle" : 0,
+      "minifyOutput" : 0,
+      "outputAbbreviatedPath" : "\/js\/plugin.js",
+      "outputStyle" : 1,
+      "fileType" : 32
+    },
     "\/scss\/bootstrap\/_labels-badges.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -190,15 +202,15 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/scss\/bootstrap\/responsive.scss" : {
+    "\/scss\/bootstrap\/_forms.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/responsive.scss",
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_forms.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/responsive.css",
+      "outputAbbreviatedPath" : "\/css\/_forms.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -214,15 +226,15 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/scss\/bootstrap\/_forms.scss" : {
+    "\/scss\/bootstrap\/responsive.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_forms.scss",
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/responsive.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_forms.css",
+      "outputAbbreviatedPath" : "\/css\/responsive.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -298,6 +310,17 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
+    "\/js\/vendor\/jquery.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/jquery.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-production.js",
+      "fileType" : 64
+    },
     "\/scss\/bootstrap\/_sprites.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -309,17 +332,6 @@
       "outputAbbreviatedPath" : "\/css\/_sprites.css",
       "fileType" : 4,
       "debugStyle" : 1
-    },
-    "\/js\/snippets.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/snippets.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/snippets-production.js",
-      "fileType" : 64
     },
     "\/scss\/bootstrap\/_responsive-768px-979px.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -333,15 +345,15 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/js\/vendor\/jquery.js" : {
+    "\/js\/snippets.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/jquery.js",
+      "inputAbbreviatedPath" : "\/js\/snippets.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-production.js",
+      "outputAbbreviatedPath" : "\/js\/snippets-production.js",
       "fileType" : 64
     },
     "\/scss\/bootstrap\/_wells.scss" : {
@@ -422,15 +434,15 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/scss\/bootstrap\/_variables.scss" : {
+    "\/scss\/bootstrap\/_type.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_variables.scss",
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_type.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_variables.css",
+      "outputAbbreviatedPath" : "\/css\/_type.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -446,15 +458,15 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/scss\/bootstrap\/_type.scss" : {
+    "\/scss\/bootstrap\/_variables.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_type.scss",
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_variables.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_type.css",
+      "outputAbbreviatedPath" : "\/css\/_variables.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -493,17 +505,16 @@
       "outputAbbreviatedPath" : "\/js\/vendor\/modernizr-production.js",
       "fileType" : 64
     },
-    "\/scss\/bootstrap\/_thumbnails.scss" : {
+    "\/js\/plugin.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_thumbnails.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_thumbnails.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "inputAbbreviatedPath" : "\/js\/plugin.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/plugin-production.js",
+      "fileType" : 64
     },
     "\/scss\/bootstrap\/_tables.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -514,6 +525,18 @@
       "outputStyle" : 2,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/css\/_tables.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_thumbnails.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_thumbnails.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_thumbnails.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -529,18 +552,6 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/scss\/bootstrap\/_progress-bars.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_progress-bars.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_progress-bars.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
     "\/scss\/bootstrap\/_utilities.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -550,6 +561,18 @@
       "outputStyle" : 2,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/css\/_utilities.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_progress-bars.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_progress-bars.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_progress-bars.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -585,15 +608,6 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/css\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/scss\/bootstrap\/_navbar.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -603,6 +617,18 @@
       "outputStyle" : 2,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/css\/_navbar.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_scaffolding.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_scaffolding.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_scaffolding.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -630,17 +656,14 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/scss\/bootstrap\/_scaffolding.scss" : {
+    "\/css\/style.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_scaffolding.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_scaffolding.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "inputAbbreviatedPath" : "\/css\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/scss\/bootstrap\/_code.scss" : {
       "ignoreWasSetByUser" : 0,
