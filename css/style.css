@@ -660,7 +660,7 @@ body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 20px;
   color: #333333;
   background-color: white; }
 
@@ -834,7 +834,7 @@ a:hover {
   .row-fluid [class*="span"] {
     display: block;
     width: 100%;
-    min-height: 34px;
+    min-height: 30px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -1032,14 +1032,14 @@ a:hover {
 
 /* line 9, ../scss/bootstrap/_type.scss */
 p {
-  margin: 0 0 12px; }
+  margin: 0 0 10px; }
 
 /* line 12, ../scss/bootstrap/_type.scss */
 .lead {
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   font-size: 24px;
   font-weight: 200;
-  line-height: 36px; }
+  line-height: 30px; }
 
 /* line 23, ../scss/bootstrap/_type.scss */
 small {
@@ -1095,10 +1095,10 @@ a.text-success:hover {
 
 /* line 56, ../scss/bootstrap/_type.scss */
 h1, h2, h3, h4, h5, h6 {
-  margin: 12px 0;
+  margin: 10px 0;
   font-family: inherit;
   font-weight: bold;
-  line-height: 24px;
+  line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility; }
   /* line 63, ../scss/bootstrap/_type.scss */
@@ -1111,7 +1111,7 @@ h1, h2, h3, h4, h5, h6 {
 h1,
 h2,
 h3 {
-  line-height: 48px; }
+  line-height: 40px; }
 
 /* line 74, ../scss/bootstrap/_type.scss */
 h1 {
@@ -1155,14 +1155,14 @@ h4 small {
 
 /* line 90, ../scss/bootstrap/_type.scss */
 .page-header {
-  padding-bottom: 11px;
-  margin: 24px 0 36px;
+  padding-bottom: 9px;
+  margin: 20px 0 30px;
   border-bottom: 1px solid #eeeeee; }
 
 /* line 102, ../scss/bootstrap/_type.scss */
 ul, ol {
   padding: 0;
-  margin: 0 0 12px 25px; }
+  margin: 0 0 10px 25px; }
 
 /* line 109, ../scss/bootstrap/_type.scss */
 ul ul,
@@ -1173,7 +1173,7 @@ ol ul {
 
 /* line 112, ../scss/bootstrap/_type.scss */
 li {
-  line-height: 24px; }
+  line-height: 20px; }
 
 /* line 116, ../scss/bootstrap/_type.scss */
 ul.unstyled,
@@ -1183,12 +1183,12 @@ ol.unstyled {
 
 /* line 122, ../scss/bootstrap/_type.scss */
 dl {
-  margin-bottom: 24px; }
+  margin-bottom: 20px; }
 
 /* line 126, ../scss/bootstrap/_type.scss */
 dt,
 dd {
-  line-height: 24px; }
+  line-height: 20px; }
 
 /* line 129, ../scss/bootstrap/_type.scss */
 dt {
@@ -1196,7 +1196,7 @@ dt {
 
 /* line 132, ../scss/bootstrap/_type.scss */
 dd {
-  margin-left: 12px; }
+  margin-left: 10px; }
 
 /* line 136, ../scss/bootstrap/_type.scss */
 .dl-horizontal {
@@ -1224,7 +1224,7 @@ dd {
 
 /* line 154, ../scss/bootstrap/_type.scss */
 hr {
-  margin: 24px 0;
+  margin: 20px 0;
   border: 0;
   border-top: 1px solid #eeeeee;
   border-bottom: 1px solid white; }
@@ -1243,18 +1243,18 @@ abbr.initialism {
 /* line 174, ../scss/bootstrap/_type.scss */
 blockquote {
   padding: 0 0 0 15px;
-  margin: 0 0 24px;
+  margin: 0 0 20px;
   border-left: 5px solid #eeeeee; }
   /* line 178, ../scss/bootstrap/_type.scss */
   blockquote p {
     margin-bottom: 0;
     font-size: 16px;
     font-weight: 300;
-    line-height: 30px; }
+    line-height: 25px; }
   /* line 182, ../scss/bootstrap/_type.scss */
   blockquote small {
     display: block;
-    line-height: 24px;
+    line-height: 20px;
     color: #999999; }
     /* line 186, ../scss/bootstrap/_type.scss */
     blockquote small:before {
@@ -1287,9 +1287,9 @@ blockquote:after {
 /* line 222, ../scss/bootstrap/_type.scss */
 address {
   display: block;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   font-style: normal;
-  line-height: 24px; }
+  line-height: 20px; }
 
 /* line 8, ../scss/bootstrap/_code.scss */
 code,
@@ -1312,10 +1312,10 @@ code {
 /* line 25, ../scss/bootstrap/_code.scss */
 pre {
   display: block;
-  padding: 11.5px;
-  margin: 0 0 12px;
+  padding: 9.5px;
+  margin: 0 0 10px;
   font-size: 15px;
-  line-height: 24px;
+  line-height: 20px;
   word-break: break-all;
   word-wrap: break-word;
   white-space: pre;
@@ -1328,7 +1328,7 @@ pre {
   border-radius: 4px; }
   /* line 41, ../scss/bootstrap/_code.scss */
   pre.prettyprint {
-    margin-bottom: 24px; }
+    margin-bottom: 20px; }
   /* line 46, ../scss/bootstrap/_code.scss */
   pre code {
     padding: 0;
@@ -1343,7 +1343,7 @@ pre {
 
 /* line 10, ../scss/bootstrap/_forms.scss */
 form {
-  margin: 0 0 24px; }
+  margin: 0 0 20px; }
 
 /* line 14, ../scss/bootstrap/_forms.scss */
 fieldset {
@@ -1356,15 +1356,15 @@ legend {
   display: block;
   width: 100%;
   padding: 0;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   font-size: 24px;
-  line-height: 48px;
+  line-height: 40px;
   color: #333333;
   border: 0;
   border-bottom: 1px solid #e5e5e5; }
   /* line 33, ../scss/bootstrap/_forms.scss */
   legend small {
-    font-size: 18px;
+    font-size: 15px;
     color: #999999; }
 
 /* line 44, ../scss/bootstrap/_forms.scss */
@@ -1375,7 +1375,7 @@ select,
 textarea {
   font-size: 16px;
   font-weight: normal;
-  line-height: 24px; }
+  line-height: 20px; }
 
 /* line 50, ../scss/bootstrap/_forms.scss */
 input,
@@ -1408,11 +1408,11 @@ input[type="tel"],
 input[type="color"],
 .uneditable-input {
   display: inline-block;
-  height: 24px;
+  height: 20px;
   padding: 4px 6px;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 20px;
   color: #555555;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -1504,11 +1504,11 @@ input[type="checkbox"] {
 /* line 157, ../scss/bootstrap/_forms.scss */
 select,
 input[type="file"] {
-  height: 34px;
+  height: 30px;
   /* In IE7, the height of the select element cannot be changed by height, only font-size */
   *margin-top: 4px;
   /* For IE7, add top margin to align select with labels */
-  line-height: 34px; }
+  line-height: 30px; }
 
 /* line 164, ../scss/bootstrap/_forms.scss */
 select {
@@ -1567,7 +1567,7 @@ textarea::-webkit-input-placeholder {
 /* line 226, ../scss/bootstrap/_forms.scss */
 .radio,
 .checkbox {
-  min-height: 24px;
+  min-height: 20px;
   padding-left: 20px; }
 
 /* line 231, ../scss/bootstrap/_forms.scss */
@@ -1921,9 +1921,9 @@ select:focus:required:invalid {
 
 /* line 386, ../scss/bootstrap/_forms.scss */
 .form-actions {
-  padding: 23px 20px 24px;
-  margin-top: 24px;
-  margin-bottom: 24px;
+  padding: 19px 20px 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   background-color: whitesmoke;
   border-top: 1px solid #e5e5e5;
   *zoom: 1; }
@@ -1944,7 +1944,7 @@ select:focus:required:invalid {
 /* line 405, ../scss/bootstrap/_forms.scss */
 .help-block {
   display: block;
-  margin-bottom: 12px; }
+  margin-bottom: 10px; }
 
 /* line 410, ../scss/bootstrap/_forms.scss */
 .help-inline {
@@ -1998,12 +1998,12 @@ select:focus:required:invalid {
   .input-prepend .add-on {
     display: inline-block;
     width: auto;
-    height: 24px;
+    height: 20px;
     min-width: 16px;
     padding: 4px 5px;
     font-size: 16px;
     font-weight: normal;
-    line-height: 24px;
+    line-height: 20px;
     text-align: center;
     text-shadow: 0 1px 0 white;
     background-color: #eeeeee;
@@ -2204,16 +2204,16 @@ input.search-query {
 
 /* line 628, ../scss/bootstrap/_forms.scss */
 .control-group {
-  margin-bottom: 12px; }
+  margin-bottom: 10px; }
 
 /* line 633, ../scss/bootstrap/_forms.scss */
 legend + .control-group {
-  margin-top: 24px;
+  margin-top: 20px;
   -webkit-margin-top-collapse: separate; }
 
 /* line 643, ../scss/bootstrap/_forms.scss */
 .form-horizontal .control-group {
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   *zoom: 1; }
   /* line 15, ../scss/bootstrap/_mixins.scss */
   .form-horizontal .control-group:before, .form-horizontal .control-group:after {
@@ -2245,7 +2245,7 @@ legend + .control-group {
 .form-horizontal input + .help-block,
 .form-horizontal select + .help-block,
 .form-horizontal textarea + .help-block {
-  margin-top: 12px; }
+  margin-top: 10px; }
 /* line 679, ../scss/bootstrap/_forms.scss */
 .form-horizontal .form-actions {
   padding-left: 180px; }
@@ -2260,12 +2260,12 @@ table {
 /* line 19, ../scss/bootstrap/_tables.scss */
 .table {
   width: 100%;
-  margin-bottom: 24px; }
+  margin-bottom: 20px; }
   /* line 24, ../scss/bootstrap/_tables.scss */
   .table th,
   .table td {
     padding: 8px;
-    line-height: 24px;
+    line-height: 20px;
     text-align: left;
     vertical-align: top;
     border-top: 1px solid #dddddd; }
@@ -3137,7 +3137,7 @@ table th[class*="span"],
   .dropdown-menu .divider {
     *width: 100%;
     height: 1px;
-    margin: 11px 1px;
+    margin: 9px 1px;
     *margin: -5px 0 5px;
     overflow: hidden;
     background-color: #e5e5e5;
@@ -3148,7 +3148,7 @@ table th[class*="span"],
     padding: 3px 20px;
     clear: both;
     font-weight: normal;
-    line-height: 24px;
+    line-height: 20px;
     color: #333333;
     white-space: nowrap; }
 
@@ -3349,7 +3349,7 @@ table th[class*="span"],
   float: right;
   font-size: 20px;
   font-weight: bold;
-  line-height: 24px;
+  line-height: 20px;
   color: #656565;
   text-shadow: 0 1px 0 white;
   opacity: 0.2;
@@ -3379,8 +3379,8 @@ button.close {
   padding: 4px 12px;
   margin-bottom: 0;
   font-size: 16px;
-  line-height: 24px;
-  *line-height: 24px;
+  line-height: 20px;
+  *line-height: 20px;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
@@ -3759,8 +3759,8 @@ input[type="submit"].btn {
 /* line 23, ../scss/bootstrap/_button-groups.scss */
 .btn-toolbar {
   font-size: 0;
-  margin-top: 12px;
-  margin-bottom: 12px; }
+  margin-top: 10px;
+  margin-bottom: 10px; }
   /* line 29, ../scss/bootstrap/_button-groups.scss */
   .btn-toolbar .btn + .btn,
   .btn-toolbar .btn-group + .btn,
@@ -3983,7 +3983,7 @@ input[type="submit"].btn {
 /* line 9, ../scss/bootstrap/_alerts.scss */
 .alert {
   padding: 8px 35px 8px 14px;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
   background-color: #fcf8e3;
   border: 1px solid #fbeed5;
@@ -4001,7 +4001,7 @@ input[type="submit"].btn {
   position: relative;
   top: -2px;
   right: -21px;
-  line-height: 24px; }
+  line-height: 20px; }
 
 /* line 34, ../scss/bootstrap/_alerts.scss */
 .alert-success {
@@ -4039,7 +4039,7 @@ input[type="submit"].btn {
 /* line 9, ../scss/bootstrap/_navs.scss */
 .nav {
   margin-left: 0;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   list-style: none; }
 
 /* line 16, ../scss/bootstrap/_navs.scss */
@@ -4061,7 +4061,7 @@ input[type="submit"].btn {
   padding: 3px 15px;
   font-size: 11px;
   font-weight: bold;
-  line-height: 24px;
+  line-height: 20px;
   color: #999999;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
   text-transform: uppercase; }
@@ -4103,7 +4103,7 @@ input[type="submit"].btn {
 .nav-list .divider {
   *width: 100%;
   height: 1px;
-  margin: 11px 1px;
+  margin: 9px 1px;
   *margin: -5px 0 5px;
   overflow: hidden;
   background-color: #e5e5e5;
@@ -4150,7 +4150,7 @@ input[type="submit"].btn {
 .nav-tabs > li > a {
   padding-top: 8px;
   padding-bottom: 8px;
-  line-height: 24px;
+  line-height: 20px;
   border: 1px solid transparent;
   -webkit-border-radius: 4px 4px 0 0;
   -moz-border-radius: 4px 4px 0 0;
@@ -4424,7 +4424,7 @@ input[type="submit"].btn {
 /* line 10, ../scss/bootstrap/_navbar.scss */
 .navbar {
   overflow: visible;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   color: #777777;
   *position: relative;
   *z-index: 2; }
@@ -4472,7 +4472,7 @@ input[type="submit"].btn {
 .navbar .brand {
   float: left;
   display: block;
-  padding: 8px 20px 8px;
+  padding: 10px 20px 10px;
   margin-left: -20px;
   font-size: 20px;
   font-weight: 200;
@@ -4652,7 +4652,7 @@ input[type="submit"].btn {
 /* line 238, ../scss/bootstrap/_navbar.scss */
 .navbar .nav > li > a {
   float: none;
-  padding: 8px 15px 8px;
+  padding: 10px 15px 10px;
   color: #777777;
   text-decoration: none;
   text-shadow: 0 1px 0 white; }
@@ -4932,7 +4932,7 @@ input[type="submit"].btn {
 /* line 6, ../scss/bootstrap/_breadcrumbs.scss */
 .breadcrumb {
   padding: 8px 15px;
-  margin: 0 0 24px;
+  margin: 0 0 20px;
   list-style: none;
   background-color: #f5f5f5;
   -webkit-border-radius: 4px;
@@ -4955,7 +4955,7 @@ input[type="submit"].btn {
 
 /* line 6, ../scss/bootstrap/_pagination.scss */
 .pagination {
-  margin: 24px 0; }
+  margin: 20px 0; }
 
 /* line 10, ../scss/bootstrap/_pagination.scss */
 .pagination ul {
@@ -4981,7 +4981,7 @@ input[type="submit"].btn {
 .pagination ul > li > span {
   float: left;
   padding: 4px 12px;
-  line-height: 24px;
+  line-height: 20px;
   text-decoration: none;
   background-color: white;
   border: 1px solid #dddddd;
@@ -5097,7 +5097,7 @@ input[type="submit"].btn {
 
 /* line 6, ../scss/bootstrap/_pager.scss */
 .pager {
-  margin: 24px 0;
+  margin: 20px 0;
   list-style: none;
   text-align: center;
   *zoom: 1; }
@@ -5476,14 +5476,14 @@ input[type="submit"].btn {
 /* line 20, ../scss/bootstrap/_thumbnails.scss */
 .thumbnails > li {
   float: left;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   margin-left: 20px; }
 
 /* line 27, ../scss/bootstrap/_thumbnails.scss */
 .thumbnail {
   display: block;
   padding: 4px;
-  line-height: 24px;
+  line-height: 20px;
   border: 1px solid #ddd;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -5685,8 +5685,8 @@ a.label:hover, a.badge:hover {
 /* line 45, ../scss/bootstrap/_progress-bars.scss */
 .progress {
   overflow: hidden;
-  height: 24px;
-  margin-bottom: 24px;
+  height: 20px;
+  margin-bottom: 20px;
   background-color: #f6f6f6;
   background-image: -moz-linear-gradient(top, whitesmoke, #f9f9f9);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(whitesmoke), to(#f9f9f9));
@@ -5839,7 +5839,7 @@ a.label:hover, a.badge:hover {
 
 /* line 7, ../scss/bootstrap/_accordion.scss */
 .accordion {
-  margin-bottom: 24px; }
+  margin-bottom: 20px; }
 
 /* line 12, ../scss/bootstrap/_accordion.scss */
 .accordion-group {
@@ -5870,7 +5870,7 @@ a.label:hover, a.badge:hover {
 /* line 6, ../scss/bootstrap/_carousel.scss */
 .carousel {
   position: relative;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   line-height: 1; }
 
 /* line 12, ../scss/bootstrap/_carousel.scss */
@@ -5967,7 +5967,7 @@ a.label:hover, a.badge:hover {
 .carousel-caption h4,
 .carousel-caption p {
   color: white;
-  line-height: 24px; }
+  line-height: 20px; }
 
 /* line 126, ../scss/bootstrap/_carousel.scss */
 .carousel-caption h4 {
@@ -5983,7 +5983,7 @@ a.label:hover, a.badge:hover {
   margin-bottom: 30px;
   font-size: 18px;
   font-weight: 200;
-  line-height: 36px;
+  line-height: 30px;
   color: inherit;
   background-color: #eeeeee;
   -webkit-border-radius: 6px;
@@ -5998,7 +5998,7 @@ a.label:hover, a.badge:hover {
     letter-spacing: -1px; }
   /* line 22, ../scss/bootstrap/_hero-unit.scss */
   .hero-unit li {
-    line-height: 36px; }
+    line-height: 30px; }
 
 /* line 7, ../scss/bootstrap/_utilities.scss */
 .pull-right {
@@ -6048,7 +6048,7 @@ a.label:hover, a.badge:hover {
 .input-block-level {
   display: block;
   width: 100%;
-  min-height: 34px;
+  min-height: 30px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
@@ -6063,32 +6063,102 @@ http://compass-style.org/reference/compass/typography/vertical_rhythm/
 /* line 64, ../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 16px;
-  line-height: 1.5em; }
+  line-height: 1.25em; }
+
+/* baseline definitions*/
+/* line 33, ../scss/_base.scss */
+h1 {
+  font-size: 1.875em;
+  line-height: 1.33333em;
+  margin-top: 0.66667em;
+  margin-bottom: 0.66667em; }
+
+/* line 38, ../scss/_base.scss */
+h2 {
+  font-size: 1.5em;
+  line-height: 1.66667em;
+  margin-top: 0.83333em;
+  margin-bottom: 0.83333em; }
+  /* line 42, ../scss/_base.scss */
+  h2.h2-bordered {
+    border-bottom-style: solid;
+    border-bottom-width: 0.1875em;
+    padding-bottom: 1.0625em; }
+
+/* line 46, ../scss/_base.scss */
+h3 {
+  font-size: 1.25em;
+  line-height: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em; }
+
+/* line 51, ../scss/_base.scss */
+h4 {
+  font-size: 1em;
+  line-height: 1.25em;
+  margin-top: 1.25em;
+  margin-bottom: 1.25em; }
+
+/* line 56, ../scss/_base.scss */
+h5 {
+  font-size: 0.75em;
+  line-height: 1.66667em;
+  margin-top: 1.66667em;
+  margin-bottom: 1.66667em; }
+
+/* line 61, ../scss/_base.scss */
+h6 {
+  font-size: 0.625em;
+  line-height: 2em;
+  margin-top: 2em;
+  margin-bottom: 2em; }
+
+/* line 66, ../scss/_base.scss */
+p {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em; }
+
+/* line 70, ../scss/_base.scss */
+ul, ol {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em; }
+
+/* line 74, ../scss/_base.scss */
+blockquote {
+  margin-top: 1.25em;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+  margin-bottom: 1.25em; }
+
+/* line 77, ../scss/_base.scss */
+table {
+  width: 100%;
+  margin-bottom: 1.25em; }
+  /* line 80, ../scss/_base.scss */
+  table td {
+    border-collapse: collapse;
+    border-top-style: solid;
+    border-top-width: 0.0625em;
+    padding-top: 0.5625em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.0625em;
+    padding-bottom: 0.5625em; }
 
 /*
 http://paulirish.com/2012/box-sizing-border-box-ftw/
 */
-/* line 32, ../scss/_base.scss */
+/* line 90, ../scss/_base.scss */
 * {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
-
-/* line 8, ../scss/style.scss */
-body {
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #000000), color-stop(100%, #f8f8f8));
-  background-image: -webkit-linear-gradient(#000000, #f8f8f8);
-  background-image: -moz-linear-gradient(#000000, #f8f8f8);
-  background-image: -o-linear-gradient(#000000, #f8f8f8);
-  background-image: linear-gradient(#000000, #f8f8f8); }
 
 /* line 12, ../scss/style.scss */
 .wrapper {
   width: 950px;
   margin: 0 auto;
   overflow: hidden;
-  *zoom: 1;
-  background: #dedede; }
+  *zoom: 1; }
 
 /*
 MEDIA QUERIES
@@ -6102,7 +6172,7 @@ query for retina AND a certain size if you want. Go Nuts.
 PRINT STYLESHEET
 */
 @media print {
-  /* line 72, ../scss/style.scss */
+  /* line 71, ../scss/style.scss */
   * {
     background: transparent !important;
     color: black !important;
@@ -6110,54 +6180,54 @@ PRINT STYLESHEET
     filter: none !important;
     -ms-filter: none !important; }
 
-  /* line 80, ../scss/style.scss */
+  /* line 79, ../scss/style.scss */
   a, a:visited {
     color: #444 !important;
     text-decoration: underline; }
-    /* line 85, ../scss/style.scss */
+    /* line 84, ../scss/style.scss */
     a:after, a:visited:after {
       content: " (" attr(href) ")"; }
-    /* line 90, ../scss/style.scss */
+    /* line 89, ../scss/style.scss */
     a abbr[title]:after, a:visited abbr[title]:after {
       content: " (" attr(title) ")"; }
 
-  /* line 97, ../scss/style.scss */
+  /* line 96, ../scss/style.scss */
   .ir a:after,
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: ""; }
 
-  /* line 101, ../scss/style.scss */
+  /* line 100, ../scss/style.scss */
   pre, blockquote {
     border: 1px solid #999;
     page-break-inside: avoid; }
 
-  /* line 106, ../scss/style.scss */
+  /* line 105, ../scss/style.scss */
   thead {
     display: table-header-group; }
 
-  /* line 110, ../scss/style.scss */
+  /* line 109, ../scss/style.scss */
   tr, img {
     page-break-inside: avoid; }
 
-  /* line 114, ../scss/style.scss */
+  /* line 113, ../scss/style.scss */
   img {
     max-width: 100% !important; }
 
   @page {
     margin: 0.5cm; }
 
-  /* line 122, ../scss/style.scss */
+  /* line 121, ../scss/style.scss */
   p, h2, h3 {
     orphans: 3;
     widows: 3; }
 
-  /* line 128, ../scss/style.scss */
+  /* line 127, ../scss/style.scss */
   h2,
   h3 {
     page-break-after: avoid; }
 
-  /* line 137, ../scss/style.scss */
+  /* line 136, ../scss/style.scss */
   .sidebar,
   .page-navigation,
   .wp-prev-next,

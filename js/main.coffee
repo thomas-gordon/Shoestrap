@@ -5,7 +5,11 @@ do ($ = jQuery) ->
 	App =
 		init: ->
 			console.log 'Application has started'
+			@.fixBaseline()
 			@.appendP
+
+		fixBaseline: ->
+			$('img').baseline(24);
 
 		appendP: ->
 			console.log('appendP has run');

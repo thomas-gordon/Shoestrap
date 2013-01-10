@@ -7,7 +7,11 @@
   App = {
     init: function() {
       console.log('Application has started');
+      this.fixBaseline();
       return this.appendP;
+    },
+    fixBaseline: function() {
+      return $('img').baseline(24);
     },
     appendP: function() {
       console.log('appendP has run');

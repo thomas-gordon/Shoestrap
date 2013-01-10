@@ -6,12 +6,11 @@
 @import "base";
 
 body{
-   @include background-image(linear-gradient(#000, #f8f8f8));
+//background: image-url('grid.gif') 0 12px;
 }
 
 .wrapper{
     @include container;
-    background:$dark-grey;
 }
 
 
