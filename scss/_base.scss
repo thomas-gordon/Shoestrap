@@ -21,11 +21,23 @@ $dark-grey:#dedede;
 @import "compass";
 @import "blueprint";
 
+@mixin cf() {
+	*zoom: 1;
+	&:before,
+	&:after {
+		content: " "; /* 1 */
+		display: table; /* 2 */
+	}
+
+	&:after {
+		clear: both;
+	}
+}
+
+
 /*
 http://compass-style.org/reference/compass/typography/vertical_rhythm/
 */
-
-
 @include establish-baseline;
 
 /* baseline definitions*/

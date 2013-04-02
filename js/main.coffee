@@ -9,7 +9,8 @@ do ($ = jQuery) ->
 			@.appendP
 
 		fixBaseline: ->
-			$('img').baseline(24);
+			$('img').baseline(24)
+
 
 		appendP: ->
 			console.log('appendP has run');
