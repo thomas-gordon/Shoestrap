@@ -1,939 +1,7 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "8248",
+  "creatorBuild" : "8283",
   "files" : {
-    "\/Tempo\/totale\/system\/api_commands\/endota_redemption_detail_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/endota_redemption_detail_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/base\/Base.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/Base.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_responsive-767px-max.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-767px-max.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_responsive-767px-max.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/scss\/bootstrap\/_scaffolding.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_scaffolding.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_scaffolding.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/base\/Options.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/Options.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_close.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_close.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_close.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/favicon.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/favicon.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/favicon.png",
-      "initialSize" : 1150,
-      "fileType" : 8192
-    },
-    "\/Tempo\/tempo\/base\/int\/Loggable.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/int\/Loggable.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_progress-bars.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_progress-bars.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_progress-bars.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/site\/images\/form\/stripe.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/images\/form\/stripe.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/images\/form\/stripe.png",
-      "initialSize" : 126,
-      "fileType" : 8192
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/overlay.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/overlay.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/overlay-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/totale\/system\/element_lib\/endota_redemption_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/endota_redemption_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_responsive-navbar.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-navbar.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_responsive-navbar.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/site\/pods\/totale\/script_connection.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/totale\/script_connection.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/slides.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/slides.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/slides-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/totale\/system\/api_commands\/membership_card_list_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/membership_card_list_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/totale\/authentication.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/totale\/authentication.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/black.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/black.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/black.png",
-      "initialSize" : 6455,
-      "fileType" : 8192
-    },
-    "\/Tempo\/site\/js\/dd_belatedpng.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/dd_belatedpng.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/dd_belatedpng-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/tempo\/filesystem\/DATFile.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/filesystem\/DATFile.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/base\/StackOptions.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/StackOptions.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/customer_reward_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/customer_reward_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white_chromebutton.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white_chromebutton.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white_chromebutton.png",
-      "initialSize" : 7615,
-      "fileType" : 8192
-    },
-    "\/scss\/bootstrap\/_labels-badges.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_labels-badges.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_labels-badges.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/black_arrow_big.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/black_arrow_big.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/black_arrow_big.png",
-      "initialSize" : 4510,
-      "fileType" : 8192
-    },
-    "\/Tempo\/totale\/system\/custom_classes\/notification_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/custom_classes\/notification_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/api_commands\/endota_redemption_list_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/endota_redemption_list_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_hero-unit.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_hero-unit.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_hero-unit.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/common\/page_open.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/common\/page_open.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/base\/int\/Emailable.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/int\/Emailable.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/output\/PlainTextFormat.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/output\/PlainTextFormat.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/totale\/api_connection.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/totale\/api_connection.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_modals.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_modals.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_modals.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/js\/plugin.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/plugin.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/plugin-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/white.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/white.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/white.png",
-      "initialSize" : 1218,
-      "fileType" : 8192
-    },
-    "\/Tempo\/totale\/system\/api_commands\/pb_membership_card_list_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/pb_membership_card_list_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/css\/mobile.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/css\/mobile.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/Tempo\/tempo\/base\/int\/Connectable.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/int\/Connectable.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/customer_elements.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/customer_elements.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/responsive.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/responsive.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/responsive.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/system\/api_commands\/customer_list_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/customer_list_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/form\/form_init.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/form\/form_init.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/form\/form_init-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white.png",
-      "initialSize" : 4233,
-      "fileType" : 8192
-    },
-    "\/scss\/bootstrap\/_pager.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_pager.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_pager.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/system\/api_commands\/survey_detail_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/survey_detail_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_buttons.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_buttons.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_buttons.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/util\/Loader.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/Loader.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/tempo\/base_pod.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/tempo\/base_pod.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_sprites.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_sprites.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_sprites.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/system\/element_lib\/product_elements.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/product_elements.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/kickstart.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/kickstart.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/voucher\/redemption.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/voucher\/redemption.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/form\/extended_fields.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/extended_fields.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/project\/content_processor.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/project\/content_processor.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/css\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/js\/main.coffee" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/main.coffee",
-      "checkOutputStyle" : 1,
-      "minifyOutput" : 0,
-      "outputAbbreviatedPath" : "\/js\/main.js",
-      "outputStyle" : 1,
-      "fileType" : 32
-    },
-    "\/config.rb" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
-    },
-    "\/Tempo\/totale\/system\/api_commands\/customer_detail_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/customer_detail_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_thumbnails.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_thumbnails.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_thumbnails.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/util\/PrettyDump.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/PrettyDump.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/css\/reset.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/css\/reset.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/Tempo\/site\/scss\/form.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/scss\/form.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/form.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/system\/api_commands\/pb_customer_reward_list_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/pb_customer_reward_list_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_component-animations.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_component-animations.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_component-animations.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/js\/vendor\/jquery.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/jquery.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/totale\/system\/api_commands\/membership_card_detail_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/membership_card_detail_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/apple-close.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/apple-close.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/apple-close.png",
-      "initialSize" : 1394,
-      "fileType" : 8192
-    },
-    "\/Tempo\/totale\/system\/element_lib\/product_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/product_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_responsive-utilities.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-utilities.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_responsive-utilities.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/site\/pods\/form\/slickgrid_async.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/slickgrid_async.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/form\/slickgrid.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/slickgrid.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/util\/Util.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/Util.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_pagination.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_pagination.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_pagination.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/scss\/bootstrap\/_utilities.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_utilities.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_utilities.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/scss\/bootstrap\/_navbar.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_navbar.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_navbar.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/util\/Profiler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/Profiler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/custom_classes\/pceftpos_api_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/custom_classes\/pceftpos_api_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/membership_card_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/membership_card_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/plugins.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/plugins.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/plugins-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/tools.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/tools.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/tools-production.js",
-      "fileType" : 64
-    },
-    "\/scss\/bootstrap\/_code.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_code.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_code.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/system\/api_commands\/logging_list_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/logging_list_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/404.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/404.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/overlay.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/overlay.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/Tempo\/site\/pods\/totale\/session.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/totale\/session.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/membership_card_elements.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/membership_card_elements.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/vendor\/jquery.baseline.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/jquery.baseline.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/jquery.baseline-production.js",
-      "fileType" : 64
-    },
-    "\/scss\/bootstrap\/_layouts.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_layouts.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_layouts.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/js\/vendor\/modernizr.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/modernizr.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/modernizr-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/totale\/system\/element_lib\/mailchimp_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/mailchimp_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/common.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/common.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/common-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/tempo\/output\/HTMLFormat.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/output\/HTMLFormat.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/scss\/bootstrap\/_breadcrumbs.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -945,360 +13,6 @@
       "outputAbbreviatedPath" : "\/css\/_breadcrumbs.css",
       "fileType" : 4,
       "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/util\/PrettyTrace.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/PrettyTrace.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/css\/master.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/css\/master.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/Tempo\/site\/pods\/form\/fields.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/fields.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/common\/mailchimp_connection.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/common\/mailchimp_connection.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/pagination.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/pagination.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/pagination.png",
-      "initialSize" : 724,
-      "fileType" : 8192
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/slides_max.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/slides_max.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/slides_max-production.js",
-      "fileType" : 64
-    },
-    "\/scss\/bootstrap\/bootstrap.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/bootstrap.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/bootstrap.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white_close.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white_close.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/white_close.png",
-      "initialSize" : 6501,
-      "fileType" : 8192
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/transparent.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/transparent.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/transparent.png",
-      "initialSize" : 5085,
-      "fileType" : 8192
-    },
-    "\/Tempo\/totale\/system\/element_lib\/log_elements.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/log_elements.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/css\/ie.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/ie.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/Tempo\/site\/pods\/form\/slickgrid_inline.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/slickgrid_inline.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/tempo\/data_override.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/tempo\/data_override.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/form\/custom_fields.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/custom_fields.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/form\/form.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/form\/form.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/form\/form-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/site\/pods\/form\/base_form.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/base_form.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/filesystem\/CSVFile.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/filesystem\/CSVFile.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/tempo\/error_details.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/tempo\/error_details.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/common\/pceftpos_connection.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/common\/pceftpos_connection.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/customer_reward_elements.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/customer_reward_elements.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/view\/level1\/level2\/content_processor.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/view\/level1\/level2\/content_processor.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/survey_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/survey_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/common\/sendgrid_email_server.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/common\/sendgrid_email_server.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tooltip\/tooltip.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tooltip\/tooltip.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/apple.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/apple.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/apple.png",
-      "initialSize" : 8697,
-      "fileType" : 8192
-    },
-    "\/Tempo\/totale\/system\/element_lib\/survey_elements.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/survey_elements.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/slides.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/slides\/slides.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/Tempo\/totale\/system\/api_commands\/customer_reward_detail_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/customer_reward_detail_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/totale\/member_system.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/totale\/member_system.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/api_commands\/pb_customer_detail_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/pb_customer_detail_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/filesystem\/JSONFile.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/filesystem\/JSONFile.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/reward_type_elements.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/reward_type_elements.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/modernizr-1.7.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/modernizr-1.7.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/modernizr-1.7.min-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/tempo\/util\/PrettyInspect.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/PrettyInspect.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/main.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/main.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/main-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/petrol.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/petrol.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/petrol.png",
-      "initialSize" : 4840,
-      "fileType" : 8192
-    },
-    "\/Tempo\/site\/pods\/form\/validators.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/validators.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/scss\/bootstrap\/_alerts.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1312,406 +26,16 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/Tempo\/tempo\/base\/int\/Writable.php" : {
+    "\/js\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/int\/Writable.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/images\/form\/stripe_dark.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/images\/form\/stripe_dark.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/images\/form\/stripe_dark.png",
-      "initialSize" : 126,
-      "fileType" : 8192
-    },
-    "\/scss\/bootstrap\/_responsive-1200px-min.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-1200px-min.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_responsive-1200px-min.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/template\/View.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/template\/View.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/util\/Logger.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/Logger.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/filesystem\/File.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/filesystem\/File.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_type.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_type.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_type.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/site\/view\/level1\/content_processor.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/view\/level1\/content_processor.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/template\/Template.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/template\/Template.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tooltip\/tooltip.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tooltip\/tooltip.js",
+      "inputAbbreviatedPath" : "\/js\/plugins.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tooltip\/tooltip-production.js",
+      "outputAbbreviatedPath" : "\/js\/plugins-production.js",
       "fileType" : 64
-    },
-    "\/scss\/bootstrap\/_accordion.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_accordion.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_accordion.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/template\/DataSource.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/template\/DataSource.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/customer_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/customer_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/form\/redemption.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/form\/redemption.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/form\/redemption-production.js",
-      "fileType" : 64
-    },
-    "\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_tables.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_tables.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_tables.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/site\/images\/assets\/information.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/images\/assets\/information.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/images\/assets\/information.png",
-      "initialSize" : 646,
-      "fileType" : 8192
-    },
-    "\/Tempo\/totale\/system\/setup\/setup.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/setup\/setup.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/css\/form.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/css\/form.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/black_arrow.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/black_arrow.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/black_arrow.png",
-      "initialSize" : 2129,
-      "fileType" : 8192
-    },
-    "\/Tempo\/site\/pods\/generic\/html_start.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/generic\/html_start.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_mixins.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_mixins.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_mixins.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/filesystem\/XMLFile.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/filesystem\/XMLFile.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/template\/TemplateController.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/template\/TemplateController.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/download.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/download.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/download.png",
-      "initialSize" : 4368,
-      "fileType" : 8192
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/tools.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/tools.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/scss\/bootstrap\/_forms.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_forms.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_forms.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/scss\/ie.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/ie.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/ie.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/system\/api_commands\/customer_reward_list_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/customer_reward_list_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/close.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/close.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/close.png",
-      "initialSize" : 1996,
-      "fileType" : 8192
-    },
-    "\/Tempo\/totale\/system\/element_lib\/log_handler.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/log_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_popovers.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_popovers.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_popovers.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/base\/int\/Bufferable.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/int\/Bufferable.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_variables.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_variables.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_variables.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/base\/int\/Formatable.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/int\/Formatable.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/element_lib\/endota_redemption_elements.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/endota_redemption_elements.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/common\/admin_connection.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/common\/admin_connection.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/custom_classes\/profile.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/custom_classes\/profile.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/output\/HTMLFormatDefaults.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/output\/HTMLFormatDefaults.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/scss\/bootstrap\/_dropdowns.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1722,18 +46,6 @@
       "outputStyle" : 2,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/css\/_dropdowns.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/scss\/bootstrap\/_reset.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_reset.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_reset.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -1749,53 +61,264 @@
       "outputStyle" : 1,
       "fileType" : 32
     },
-    "\/Tempo\/site\/pods\/form\/form.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/form.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/tempo\/base\/int\/Optionable.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/int\/Optionable.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/framework.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/framework.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/framework-production.js",
-      "fileType" : 64
-    },
-    "\/Tempo\/site\/pods\/totale\/detail.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/totale\/detail.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_responsive-768px-979px.scss" : {
+    "\/scss\/bootstrap\/_labels-badges.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-768px-979px.scss",
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_labels-badges.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_responsive-768px-979px.css",
+      "outputAbbreviatedPath" : "\/css\/_labels-badges.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/js\/main.coffee" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/main.coffee",
+      "checkOutputStyle" : 1,
+      "minifyOutput" : 0,
+      "outputAbbreviatedPath" : "\/js\/main.js",
+      "outputStyle" : 1,
+      "fileType" : 32
+    },
+    "\/scss\/bootstrap\/_mixins.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_mixins.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_mixins.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_buttons.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_buttons.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_buttons.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_responsive-navbar.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-navbar.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_responsive-navbar.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_hero-unit.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_hero-unit.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_hero-unit.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_reset.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_reset.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_reset.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_navs.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_navs.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_navs.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_responsive-utilities.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-utilities.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_responsive-utilities.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/ie.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/ie.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/ie.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_component-animations.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_component-animations.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_component-animations.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/responsive.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/responsive.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/responsive.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_modals.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_modals.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_modals.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_forms.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_forms.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_forms.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_close.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_close.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_close.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_pagination.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_pagination.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_pagination.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_media.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_media.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_media.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/bootstrap.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/bootstrap.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/bootstrap.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_responsive-1200px-min.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-1200px-min.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_responsive-1200px-min.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_pager.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_pager.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_pager.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_sprites.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_sprites.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_sprites.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -1810,141 +333,39 @@
       "outputAbbreviatedPath" : "\/js\/snippets-production.js",
       "fileType" : 64
     },
-    "\/Tempo\/tempo\/template\/Security.php" : {
+    "\/js\/vendor\/jquery.baseline.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/template\/Security.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/js\/vendor\/jquery.baseline.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/jquery.baseline-production.js",
+      "fileType" : 64
     },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/red.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/red.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/red.png",
-      "initialSize" : 6844,
-      "fileType" : 8192
-    },
-    "\/Tempo\/tempo\/base\/ConnectedOptions.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/ConnectedOptions.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_media.scss" : {
+    "\/scss\/bootstrap\/_responsive-768px-979px.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_media.scss",
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-768px-979px.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_media.css",
+      "outputAbbreviatedPath" : "\/css\/_responsive-768px-979px.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/Tempo\/tempo\/util\/Error.php" : {
+    "\/js\/vendor\/jquery.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/Error.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/flowplayer.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/flowplayer.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/flowplayer.png",
-      "initialSize" : 194076,
-      "fileType" : 8192
-    },
-    "\/scss\/_normalize.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/_normalize.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_normalize.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/system\/api_commands\/pceftpos_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/pceftpos_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_button-groups.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_button-groups.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_button-groups.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/tempo\/base\/BufferedOptions.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/base\/BufferedOptions.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/totale\/lists.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/totale\/lists.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/_base.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/_base.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_base.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/site\/scss\/master.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/scss\/master.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/master.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "inputAbbreviatedPath" : "\/js\/vendor\/jquery.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-production.js",
+      "fileType" : 64
     },
     "\/scss\/bootstrap\/_wells.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1958,44 +379,23 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/Tempo\/site\/css\/grid.css" : {
+    "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/css\/grid.css",
+      "inputAbbreviatedPath" : "\/config.rb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 32768
+    },
+    "\/css\/bootstrap\/bootstrap.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/bootstrap\/bootstrap.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
-    },
-    "\/scss\/bootstrap\/_grid.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_grid.scss",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_grid.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/Tempo\/totale\/api\/main_api.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/api\/main_api.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/form\/field.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/field.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/scss\/style.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -2009,35 +409,6 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/white_big.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/white_big.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/tools\/white_big.png",
-      "initialSize" : 2788,
-      "fileType" : 8192
-    },
-    "\/Tempo\/tempo\/util\/Templator.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/util\/Templator.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/system\/api_commands\/survey_list_COMMAND.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/survey_list_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/scss\/bootstrap\/_carousel.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2050,100 +421,124 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/Tempo\/tempo\/template\/Settings.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/tempo\/template\/Settings.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/site\/pods\/totale\/logging.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/totale\/logging.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Tempo\/totale\/common\/email_server.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/common\/email_server.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/scss\/bootstrap\/_navs.scss" : {
+    "\/scss\/bootstrap\/_popovers.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_navs.scss",
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_popovers.scss",
       "outputStyle" : 2,
       "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_navs.css",
+      "outputAbbreviatedPath" : "\/css\/_popovers.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/gray.png" : {
+    "\/scss\/bootstrap\/_button-groups.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/gray.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Tempo\/site\/js\/frameworks\/jquery\/component\/overlay\/gray.png",
-      "initialSize" : 4907,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_button-groups.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_button-groups.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
-    "\/Tempo\/totale\/common\/general_connection.php" : {
+    "\/scss\/bootstrap\/_type.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/common\/general_connection.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_type.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_type.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
-    "\/Tempo\/totale\/system\/element_lib\/reward_type_handler.php" : {
+    "\/scss\/bootstrap\/_layouts.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/element_lib\/reward_type_handler.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_layouts.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_layouts.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
-    "\/Tempo\/totale\/system\/api_commands\/pb_survey_COMMAND.php" : {
+    "\/scss\/bootstrap\/_variables.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/totale\/system\/api_commands\/pb_survey_COMMAND.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_variables.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_variables.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
-    "\/css\/bootstrap\/bootstrap.css" : {
+    "\/scss\/bootstrap\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/bootstrap\/bootstrap.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_grid.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_grid.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
-    "\/Tempo\/site\/pods\/form\/formatters.php" : {
+    "\/scss\/_base.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/_base.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_base.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/js\/vendor\/modernizr.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Tempo\/site\/pods\/form\/formatters.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/js\/vendor\/modernizr.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/modernizr-production.js",
+      "fileType" : 64
+    },
+    "\/scss\/bootstrap\/_thumbnails.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_thumbnails.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_thumbnails.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_tables.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_tables.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_tables.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
     "\/scss\/bootstrap\/_tooltip.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -2156,6 +551,151 @@
       "outputAbbreviatedPath" : "\/css\/_tooltip.css",
       "fileType" : 4,
       "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_progress-bars.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_progress-bars.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_progress-bars.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_utilities.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_utilities.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_utilities.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/js\/plugin.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/plugin.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/plugin-production.js",
+      "fileType" : 64
+    },
+    "\/404.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/404.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/scss\/bootstrap\/_scaffolding.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_scaffolding.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_scaffolding.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/js\/main.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/main.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/main-production.js",
+      "fileType" : 64
+    },
+    "\/css\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/scss\/bootstrap\/_responsive-767px-max.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_responsive-767px-max.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_responsive-767px-max.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/_normalize.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/_normalize.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_normalize.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_navbar.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_navbar.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_navbar.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_accordion.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_accordion.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_accordion.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/scss\/bootstrap\/_code.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/scss\/bootstrap\/_code.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_code.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/css\/ie.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/ie.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     }
   },
   "manualImportLinks" : [

@@ -99,4 +99,44 @@ table{
 /*
 http://paulirish.com/2012/box-sizing-border-box-ftw/
 */
-* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;  *behavior: url(/js/box-sizing.htc)}
+
+/*
+placeholder and selection style.
+*/
+
+@mixin placeholder-style() {
+	font-style:italic;
+	color:#9a9a9a;
+}
+
+@mixin selection-style() {
+	background:rgba(206,152,112, 0.99);
+	color:$white;
+}
+
+input.placeholding{
+	@include placeholder-style;
+}
+::-webkit-input-placeholder{
+	@include placeholder-style;
+}
+:-moz-placeholder{
+	@include placeholder-style;
+}
+::-moz-placeholder{
+	@include placeholder-style;
+}
+:-ms-input-placeholder{
+	@include placeholder-style;
+}
+
+::-moz-selection{
+	@include selection-style;
+}
+::-webkit-selection{
+	@include selection-style;
+}
+::selection{
+	@include selection-style;
+}
